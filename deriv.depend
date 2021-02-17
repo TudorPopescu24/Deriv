@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1610357793 source:c:\users\user\desktop\facultate\introducere in programare\deriv\main.cpp
+	<fstream>
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+a) Link catre videoclip:
+https://youtu.be/f1mDAm8G0tc
+
+b) Explicatii despre ce consideram deosebit la proiectul nostru:
+- Programul simplifica functia derivata (elimina inmultirile cu 0 sau cu 1, adunarile/scaderile cu 0, ridicarea la puterea 1 sau 0, impartirea la 1, ln(e), etc.)
+- Programul afiseaza grafic arborele specific fiecarei formule, pentru o mai buna vizualizare a acesteia de catre utilizator
+- Programul calculeaza derivata a doua a expresiei introduse
+- Functia de derivare este facuta recursiv, astfel incat programul poate calcula derivata de ordinul n a oricarei expresii, n>0
+- Interfata grafica a programului este bine organizata si faciliteaza navigarea utilizatorului
+- Programul stocheaza informatiile in fisiere (atat datele de intrare, cât si cele de iesire)
+
+c) Cum ne-am impartit procentual munca:
+50/50 - Comunicarea si procesul de realizare a codului din spatele programului au fost mereu sincrone. Am lucrat folosind platforma Zoom pentru a putea avea acces la functia de Remote Control. Astfel, practic, am lucrat amandoi pe acelasi calculator. Fiecare a adusiîn mod egal completari/imbunatatiri la unele functii.
